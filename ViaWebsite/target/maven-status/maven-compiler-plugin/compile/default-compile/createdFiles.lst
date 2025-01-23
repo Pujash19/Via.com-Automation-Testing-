@@ -1,0 +1,7 @@
+com\via\pages\HotelBookPage.class
+com\via\pages\HotelPage.class
+com\via\pages\EnterDetailsPage.class
+com\via\base\ViaBase.class
+com\via\pages\FlightBookPage.class
+com\via\pages\SignInPage.class
+com\via\pages\FlightPage.class
